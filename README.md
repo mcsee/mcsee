@@ -15,17 +15,13 @@ I like Agile methodologies and object-oriented software design.
 - 👯 I’m looking to collaborate on Software Desing, teaching, Singleton extinction :dinosaur:
 - 🤔 I’m looking for help with Mentoring, Object Oriented Design
 - 💬 Ask me about OOP, TDD, BDD
-- 📫 How to reach me: twitter.com/mcsee1
+- 📫 How to reach me: [twitter.com/mcsee1](https://twitter.com/mcsee1)
 - 😄 Pronouns: He/Him 
 
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
-
-
 
 
 # Do's:
