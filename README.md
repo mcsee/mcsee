@@ -12,7 +12,7 @@ I like Agile methodologies and object-oriented software design.
 
 - 🔭 I’m currently working on Tech Articles, TDD
 - 🌱 I’m currently learning Programming
-- 👯 I’m looking to collaborate on Software Desing, teaching, Singleton extinction :dinosaur:
+- 👯 I’m looking to collaborate on Software Desing, teaching, Singleton extinction :japanese_goblin:
 - 🤔 I’m looking for help with Mentoring, Object Oriented Design
 - 💬 Ask me about OOP, TDD, BDD
 - 📫 How to reach me: [twitter.com/mcsee1](https://twitter.com/mcsee1)
@@ -22,7 +22,6 @@ I like Agile methodologies and object-oriented software design.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
 
 # Do's:
 
