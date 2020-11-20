@@ -21,9 +21,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Your Recently Published Articles to Your GitHub Profile README using GitHub Actions 🤖](https://iamdarshshah.hashnode.dev/how-to-add-your-recently-published-articles-to-your-github-profile-readme-using-github-actions)
-- [Start Documenting your Journey ✍️](https://iamdarshshah.hashnode.dev/start-documenting-your-journey)
-- [Object.freeze() in JavaScript](https://iamdarshshah.hashnode.dev/objectfreeze-in-javascript)
+- [Code Smell 29 - Settings/Configs](https://maximilianocontieri.com/code-smell-29-settingsconfigs)
+- [Code Smell 28 - Setters](https://maximilianocontieri.com/code-smell-28-setters)
+- [Code Smell 27 - Associative Arrays](https://maximilianocontieri.com/code-smell-27-associative-arrays)
+- [10 Invaluable Tips for Successful Tech Articles](https://maximilianocontieri.com/10-invaluable-tips-for-successful-tech-articles)
+- [Code Smell 26 - Exceptions Polluting](https://maximilianocontieri.com/code-smell-26-exceptions-polluting)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
