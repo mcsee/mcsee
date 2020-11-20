@@ -1,7 +1,17 @@
-### Hi there 👋
-
 <!--
 **mcsee/mcsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![1500x500[1].jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1605881027123/usxjc11rc.jpeg)
+
+### Hi Everyone! 👋
+
+I am Lic. Maximiliano Contieri.
+
+I have a master in Computer Science at [Universidad de Buenos Aires](http://www.uba.ar/).
+
+I've been working on Software for about 25 years and been teaching at University at the same time.
+
+I like Agile methodologies and object-oriented software design. 
 
 - 🔭 I’m currently working on Tech Articles, TDD
 - 🌱 I’m currently learning Programming
@@ -16,17 +26,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-![1500x500[1].jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1605881027123/usxjc11rc.jpeg)
 
-Hi Everyone!
 
-I am Lic. Maximiliano Contieri.
 
-I have a master in Computer Science at [Universidad de Buenos Aires](http://www.uba.ar/).
 
-I've been working on Software for about 25 years and been teaching at University at the same time.
-
-I like Agile methodologies and object-oriented software design. 
 
 # Do's:
 
