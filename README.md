@@ -1,6 +1,3 @@
-<!--
-**mcsee/mcsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![1500x500[1].jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1605881027123/usxjc11rc.jpeg)
 
 ### Hi Everyone! 👋
