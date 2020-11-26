@@ -21,11 +21,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 29 - Settings/Configs](https://maximilianocontieri.com/code-smell-29-settingsconfigs)
-- [Code Smell 28 - Setters](https://maximilianocontieri.com/code-smell-28-setters)
-- [Code Smell 27 - Associative Arrays](https://maximilianocontieri.com/code-smell-27-associative-arrays)
-- [10 Invaluable Tips for Successful Tech Articles](https://maximilianocontieri.com/10-invaluable-tips-for-successful-tech-articles)
-- [Code Smell 26 - Exceptions Polluting](https://maximilianocontieri.com/code-smell-26-exceptions-polluting)
+- [How to Squeeze Test Driven Development on Legacy Systems](https://maximilianocontieri.com/how-to-squeeze-test-driven-development-on-legacy-systems)
+- [Code Smell 34 - Too Many Attributes](https://maximilianocontieri.com/code-smell-34-too-many-attributes)
+- [Code Smell 33 - Abbreviations](https://maximilianocontieri.com/code-smell-33-abbreviations)
+- [Code Smell 32 - Singletons](https://maximilianocontieri.com/code-smell-32-singletons)
+- [Code Smell 31 - Accidental Methods on Business Objects](https://maximilianocontieri.com/code-smell-31-accidental-methods-on-business-objects)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
