@@ -21,11 +21,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 37 - Protected Attributes](https://maximilianocontieri.com/code-smell-37-protected-attributes)
 - [Code Smell 36 - Switch/case/elseif/else/if statements](https://maximilianocontieri.com/code-smell-36-switchcaseelseifelseif-statements)
 - [Code Smell 35 - State as Properties](https://maximilianocontieri.com/code-smell-35-state-as-properties)
 - [How to Squeeze Test Driven Development on Legacy Systems](https://maximilianocontieri.com/how-to-squeeze-test-driven-development-on-legacy-systems)
 - [Code Smell 34 - Too Many Attributes](https://maximilianocontieri.com/code-smell-34-too-many-attributes)
-- [Code Smell 33 - Abbreviations](https://maximilianocontieri.com/code-smell-33-abbreviations)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
