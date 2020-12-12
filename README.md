@@ -21,11 +21,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 50 - Object Keys](https://maximilianocontieri.com/code-smell-50-object-keys)
 - [Code Smell 49 - Caches](https://maximilianocontieri.com/code-smell-49-caches)
 - [Code Smell 48 - Code Without Standards](https://maximilianocontieri.com/code-smell-48-code-without-standards)
 - [Code Smell 47 - Diagrams](https://maximilianocontieri.com/code-smell-47-diagrams)
 - [Code Smell 46 - Repeated Code](https://maximilianocontieri.com/code-smell-46-repeated-code)
-- [Code Smell 45 - Not Polymorphic](https://maximilianocontieri.com/code-smell-45-not-polymorphic)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
