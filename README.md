@@ -21,11 +21,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 51 - Double Negatives](https://maximilianocontieri.com/code-smell-51-double-negatives)
 - [The Complete Etiquette Guide to Writing #programming Articles on Hashnode](https://maximilianocontieri.com/the-complete-etiquette-guide-to-writing-programming-articles-on-hashnode)
 - [Code Smell 50 - Object Keys](https://maximilianocontieri.com/code-smell-50-object-keys)
 - [Code Smell 49 - Caches](https://maximilianocontieri.com/code-smell-49-caches)
 - [Code Smell 48 - Code Without Standards](https://maximilianocontieri.com/code-smell-48-code-without-standards)
-- [Code Smell 47 - Diagrams](https://maximilianocontieri.com/code-smell-47-diagrams)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
