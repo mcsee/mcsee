@@ -21,11 +21,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [10 More Simple Tips to Boost Your Productivity x2 (2021 Guide)](https://maximilianocontieri.com/10-more-simple-tips-to-boost-your-productivity-x2-2021-guide)
 - [The Tech Twitter Guide to the Galaxy](https://maximilianocontieri.com/the-tech-twitter-guide-to-the-galaxy)
 - [16 Simple Tips to Boost Your Productivity x10](https://maximilianocontieri.com/16-simple-tips-to-boost-your-productivity-x10)
 - [Code Smell 51 - Double Negatives](https://maximilianocontieri.com/code-smell-51-double-negatives)
 - [The Complete Etiquette Guide to Writing #programming Articles on Hashnode](https://maximilianocontieri.com/the-complete-etiquette-guide-to-writing-programming-articles-on-hashnode)
-- [Code Smell 50 - Object Keys](https://maximilianocontieri.com/code-smell-50-object-keys)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
