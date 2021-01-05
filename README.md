@@ -21,11 +21,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 53 - Explicit Iteration](https://maximilianocontieri.com/code-smell-53-explicit-iteration)
 - [Code Smell 52 - Fragile Tests](https://maximilianocontieri.com/code-smell-52-fragile-tests)
 - [10 More Simple Tips to Boost Your Productivity x2 (2021 Guide)](https://maximilianocontieri.com/10-more-simple-tips-to-boost-your-productivity-x2-2021-guide)
 - [The Tech Twitter Guide to the Galaxy](https://maximilianocontieri.com/the-tech-twitter-guide-to-the-galaxy)
 - [16 Simple Tips to Boost Your Productivity x10](https://maximilianocontieri.com/16-simple-tips-to-boost-your-productivity-x10)
-- [Code Smell 51 - Double Negatives](https://maximilianocontieri.com/code-smell-51-double-negatives)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
