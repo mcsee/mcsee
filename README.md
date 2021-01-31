@@ -21,11 +21,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 60 - Global Classes](https://maximilianocontieri.com/code-smell-60-global-classes)
 - [Code Smell 59 - Basic / Do Functions](https://maximilianocontieri.com/code-smell-59-basic-do-functions)
 - [Code Smell 58 - Yo-yo Problem](https://maximilianocontieri.com/code-smell-58-yo-yo-problem)
 - [Code Smell 57 - Versioned Functions](https://maximilianocontieri.com/code-smell-57-versioned-functions)
 - [We Should Get Rid of HelloWorld Forever💩](https://maximilianocontieri.com/we-should-get-rid-of-helloworld-forever)
-- [Code Smell 56 - Preprocessors](https://maximilianocontieri.com/code-smell-56-preprocessors)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
