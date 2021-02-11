@@ -21,11 +21,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [50 Fundamental Advices for Junior Developers](https://maximilianocontieri.com/50-fundamental-advices-for-junior-developers)
 - [Code Smell 62 - Flag Variables](https://maximilianocontieri.com/code-smell-62-flag-variables)
 - [Code Smell 61 - Coupling to Classes](https://maximilianocontieri.com/code-smell-61-coupling-to-classes)
 - [Code Smell 60 - Global Classes](https://maximilianocontieri.com/code-smell-60-global-classes)
 - [Code Smell 59 - Basic / Do Functions](https://maximilianocontieri.com/code-smell-59-basic-do-functions)
-- [Code Smell 58 - Yo-yo Problem](https://maximilianocontieri.com/code-smell-58-yo-yo-problem)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
