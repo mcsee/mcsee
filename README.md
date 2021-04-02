@@ -21,7 +21,7 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [The Real Reason you should quit you Developer Job Right Now!](https://maximilianocontieri.com/the-real-reason-you-should-quit-you-developer-job-right-now)
+- [Code Smell 65 - Variables Named After Types](https://maximilianocontieri.com/code-smell-65-variables-named-after-types)
 - [Code Smell 64 - Inappropriate Intimacy](https://maximilianocontieri.com/code-smell-64-inappropriate-intimacy)
 - [Code Smell 63 - Feature Envy](https://maximilianocontieri.com/code-smell-63-feature-envy)
 - [Stop Calling them ‘Bugs’](https://maximilianocontieri.com/stop-calling-them-bugs)
