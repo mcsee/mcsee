@@ -21,11 +21,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Reasons I Started Technical Blogging✍🏼](https://maximilianocontieri.com/the-reasons-i-started-technical-blogging)
 - [Code Smell 67 - Middle Man](https://maximilianocontieri.com/code-smell-67-middle-man)
 - [I've Recently Learned About GPT3 - This is my Journey](https://maximilianocontieri.com/ive-recently-learned-about-gpt3-this-is-my-journey)
 - [Today I Learned the Concept of Gardening](https://maximilianocontieri.com/today-i-learned-the-concept-of-gardening)
 - [Code Smell 66 - Shotgun Surgery](https://maximilianocontieri.com/code-smell-66-shotgun-surgery)
-- [Code Smell 65 - Variables Named After Types](https://maximilianocontieri.com/code-smell-65-variables-named-after-types)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
