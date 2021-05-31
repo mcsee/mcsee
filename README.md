@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 73 - Exceptions for Expected Cases](https://maximilianocontieri.com/code-smell-73-exceptions-for-expected-cases)
 - [Code Smell 72 - Return Codes](https://maximilianocontieri.com/code-smell-72-return-codes)
 - [Code Smell 71 - Magic Floats Disguised as Decimals](https://maximilianocontieri.com/code-smell-71-magic-floats-disguised-as-decimals)
 - [Code Smell 70 - Anemic Model Generators](https://maximilianocontieri.com/code-smell-70-anemic-model-generators)
 - [5 Big Mistakes I Made Writing Technical Articles](https://maximilianocontieri.com/5-big-mistakes-i-made-writing-technical-articles)
-- [Code Smell 69 - Big Bang (JavaScript Ridiculous Castings)](https://maximilianocontieri.com/code-smell-69-big-bang-javascript-ridiculous-castings)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
