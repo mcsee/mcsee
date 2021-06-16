@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 80 - Nested Try/Catch](https://maximilianocontieri.com/code-smell-80-nested-trycatch)
 - [Code Smell 79 - TheResult](https://maximilianocontieri.com/code-smell-79-theresult)
 - [Code Smell 78 - Callback Hell](https://maximilianocontieri.com/code-smell-78-callback-hell)
 - [Code Smell 77 - Timestamps](https://maximilianocontieri.com/code-smell-77-timestamps)
 - [Code Smell 76 - Generic Assertions](https://maximilianocontieri.com/code-smell-76-generic-assertions)
-- [Code Smell 75 - Comments Inside a Method](https://maximilianocontieri.com/code-smell-75-comments-inside-a-method)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
