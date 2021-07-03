@@ -25,7 +25,7 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Why GitHub Copilot is not a Treat for your Job](https://maximilianocontieri.com/why-github-copilot-is-not-a-treat-for-your-job)
+- [Why GitHub Copilot is not a Threat for your Job](https://maximilianocontieri.com/why-github-copilot-is-not-a-threat-for-your-job)
 - [Code Smell 82 - Tests Violating Encapsulation](https://maximilianocontieri.com/code-smell-82-tests-violating-encapsulation)
 - [What is JOMO and Why it will Increase your Productivity x97](https://maximilianocontieri.com/what-is-jomo-and-why-it-will-increase-your-productivity-x97)
 - [Code Smell 81 - Result](https://maximilianocontieri.com/code-smell-81-result)
