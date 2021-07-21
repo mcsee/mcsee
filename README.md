@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TDD Conference 2021 - Opening Ceremony by Alex Bunardzic](https://maximilianocontieri.com/tdd-conference-2021-opening-ceremony-by-alex-bunardzic)
 - [Code Smell 84 - Max < Min (Javascript)](https://maximilianocontieri.com/code-smell-84-max-less-min-javascript)
 - [Code Smell 83 - Variables Reassignment](https://maximilianocontieri.com/code-smell-83-variables-reassignment)
 - [Why GitHub Copilot is not a Threat to your Job](https://maximilianocontieri.com/why-github-copilot-is-not-a-threat-to-your-job)
 - [Code Smell 82 - Tests Violating Encapsulation](https://maximilianocontieri.com/code-smell-82-tests-violating-encapsulation)
-- [What is JOMO and Why it will Increase your Productivity x97](https://maximilianocontieri.com/what-is-jomo-and-why-it-will-increase-your-productivity-x97)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
