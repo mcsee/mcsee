@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TDD Conference 2021 - TDD All The Things - Liz Keogh](https://maximilianocontieri.com/tdd-conference-2021-tdd-all-the-things-liz-keogh)
 - [TDD Conference 2021 - Benefits Of Going Beyond The Make-It-Work Phase - Francisco Climent](https://maximilianocontieri.com/tdd-conference-2021-benefits-of-going-beyond-the-make-it-work-phase-francisco-climent)
 - [TDD Conference 2021 -  TDD Misconceptions - Olena Borzenko](https://maximilianocontieri.com/tdd-conference-2021-tdd-misconceptions-olena-borzenko)
 - [TDD Conference 2021 - Why You Might Not Want To Use TDD? - Ola Kunysz](https://maximilianocontieri.com/tdd-conference-2021-why-you-might-not-want-to-use-tdd-ola-kunysz)
 - [TDD Conference 2021 - Which is better to Code by Contract: TDD or API-first? - Meenakshi Dhanani](https://maximilianocontieri.com/tdd-conference-2021-which-is-better-to-code-by-contract-tdd-or-api-first-meenakshi-dhanani)
-- [TDD Conference 2021 -  Agile Pain Relief Through Technical Excellence - James Grenning](https://maximilianocontieri.com/tdd-conference-2021-agile-pain-relief-through-technical-excellence-james-grenning)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
