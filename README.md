@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TDD Conference 2021 - On The Relationship Between Units Of Isolation And Test Coupling - Mario Cervera](https://maximilianocontieri.com/tdd-conference-2021-on-the-relationship-between-units-of-isolation-and-test-coupling-mario-cervera)
 - [TDD Conference 2021 - How To Get Started With Test-Driving Your Code - Jov Mit](https://maximilianocontieri.com/tdd-conference-2021-how-to-get-started-with-test-driving-your-code-jov-mit)
 - [TDD Conference 2021 - TDD All The Things - Liz Keogh](https://maximilianocontieri.com/tdd-conference-2021-tdd-all-the-things-liz-keogh)
 - [TDD Conference 2021 - Benefits Of Going Beyond The Make-It-Work Phase - Francisco Climent](https://maximilianocontieri.com/tdd-conference-2021-benefits-of-going-beyond-the-make-it-work-phase-francisco-climent)
 - [TDD Conference 2021 -  TDD Misconceptions - Olena Borzenko](https://maximilianocontieri.com/tdd-conference-2021-tdd-misconceptions-olena-borzenko)
-- [TDD Conference 2021 - Why You Might Not Want To Use TDD? - Ola Kunysz](https://maximilianocontieri.com/tdd-conference-2021-why-you-might-not-want-to-use-tdd-ola-kunysz)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
