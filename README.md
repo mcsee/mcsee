@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TDD Conference 2021 - How TDD sensitized me to speed as a regular workplace habit? - Ragunath Jawahar](https://maximilianocontieri.com/tdd-conference-2021-how-tdd-sensitized-me-to-speed-as-a-regular-workplace-habit-ragunath-jawahar)
 - [Code Smell 88 - Lazy Initialization](https://maximilianocontieri.com/code-smell-88-lazy-initialization)
 - [Code Smell 87 - Inconsistent Parameters Sorting](https://maximilianocontieri.com/code-smell-87-inconsistent-parameters-sorting)
 - [Code Smell 86 - Mutable Const Arrays](https://maximilianocontieri.com/code-smell-86-mutable-const-arrays)
 - [Code Smell 85 - And Functions](https://maximilianocontieri.com/code-smell-85-and-functions)
-- [TDD Conference 2021 - TDD Manifesto - Daniel Moka](https://maximilianocontieri.com/tdd-conference-2021-tdd-manifesto-daniel-moka)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
