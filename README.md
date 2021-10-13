@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 93 - Send me Anything](https://maximilianocontieri.com/code-smell-93-send-me-anything)
 - [Code Smell 92 - Isolated Subclasses Names](https://maximilianocontieri.com/code-smell-92-isolated-subclasses-names)
 - [Code Smell 91 - Test Asserts without Description](https://maximilianocontieri.com/code-smell-91-test-asserts-without-description)
 - [Code Smell 90 - Implementative Callback Events](https://maximilianocontieri.com/code-smell-90-implementative-callback-events)
 - [Code Smell 89 - Math Feature Envy](https://maximilianocontieri.com/code-smell-89-math-feature-envy)
+- [TDD Conference 2021 - How TDD sensitized me to speed as a regular workplace habit? - Ragunath Jawahar](https://maximilianocontieri.com/tdd-conference-2021-how-tdd-sensitized-me-to-speed-as-a-regular-workplace-habit-ragunath-jawahar)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
