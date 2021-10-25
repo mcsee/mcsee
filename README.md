@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 96 - My Objects](https://maximilianocontieri.com/code-smell-96-my-objects)
 - [Code Smell 95 - Premature Classification](https://maximilianocontieri.com/code-smell-95-premature-classification)
 - [Code Smell 94 - Too Many imports](https://maximilianocontieri.com/code-smell-94-too-many-imports)
 - [Code Smell 93 - Send me Anything](https://maximilianocontieri.com/code-smell-93-send-me-anything)
 - [Code Smell 92 - Isolated Subclasses Names](https://maximilianocontieri.com/code-smell-92-isolated-subclasses-names)
-- [Code Smell 91 - Test Asserts without Description](https://maximilianocontieri.com/code-smell-91-test-asserts-without-description)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
