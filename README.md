@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [TDD Conference 2021 - Test-Driven Development on Legacy Systems - Maximiliano Contieri](https://maximilianocontieri.com/tdd-conference-2021-test-driven-development-on-legacy-systems-maximiliano-contieri)
 - [Code Smell 99 - First Second](https://maximilianocontieri.com/code-smell-99-first-second)
 - [Code Smell 98 - Speling Mistakes](https://maximilianocontieri.com/code-smell-98-speling-mistakes)
 - [TDD Conference 2021 - Python - A Language Made For Test-Driven Development - Jan Giacomelli](https://maximilianocontieri.com/tdd-conference-2021-python-a-language-made-for-test-driven-development-jan-giacomelli)
 - [Code Smell 97 - Error Messages Without Empathy](https://maximilianocontieri.com/code-smell-97-error-messages-without-empathy)
+- [Code Smell 96 - My Objects](https://maximilianocontieri.com/code-smell-96-my-objects)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
