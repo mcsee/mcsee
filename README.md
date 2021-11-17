@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring 001 - Remove Setters](https://maximilianocontieri.com/refactoring-001-remove-setters)
 - [Code Smell 102 - Arrow Code](https://maximilianocontieri.com/code-smell-102-arrow-code)
 - [Code Smell 101 - Comparison Against Booleans](https://maximilianocontieri.com/code-smell-101-comparison-against-booleans)
 - [TDD Conference 2021 - All Talks](https://maximilianocontieri.com/tdd-conference-2021-all-talks)
 - [Code Smell 100 - GoTo](https://maximilianocontieri.com/code-smell-100-goto)
-- [TDD Conference 2021 - Why I Love TDD And Why I&#39;m Looking For Ways To Go Beyond TDD - Alex Bunardzic](https://maximilianocontieri.com/tdd-conference-2021-why-i-love-tdd-and-why-im-looking-for-ways-to-go-beyond-tdd-alex-bunardzic)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
