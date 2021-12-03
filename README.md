@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 108 - Float Assertions](https://maximilianocontieri.com/code-smell-108-float-assertions)
 - [Code Smell 107 - Variables Reuse](https://maximilianocontieri.com/code-smell-107-variables-reuse)
 - [Code Smell 106 - Production Dependent Code](https://maximilianocontieri.com/code-smell-106-production-dependent-code)
 - [Refactoring 002 - Extract Method](https://maximilianocontieri.com/refactoring-002-extract-method)
 - [Code Smell 105 - Comedian Methods](https://maximilianocontieri.com/code-smell-105-comedian-methods)
-- [Code Smell 104 - Assert True](https://maximilianocontieri.com/code-smell-104-assert-true)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
