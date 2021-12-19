@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 111 - Modifying Collections While Traversing](https://maximilianocontieri.com/code-smell-111-modifying-collections-while-traversing)
 - [Code Smell 110 - Switches With Defaults](https://maximilianocontieri.com/code-smell-110-switches-with-defaults)
 - [Code Smell 109 - Automatic Properties](https://maximilianocontieri.com/code-smell-109-automatic-properties)
 - [Code Smell 108 - Float Assertions](https://maximilianocontieri.com/code-smell-108-float-assertions)
 - [Code Smell 107 - Variables Reuse](https://maximilianocontieri.com/code-smell-107-variables-reuse)
+- [Code Smell 106 - Production Dependent Code](https://maximilianocontieri.com/code-smell-106-production-dependent-code)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
