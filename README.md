@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Develop a Wordle Game using TDD in 25 Minutes](https://maximilianocontieri.com/how-to-develop-a-wordle-game-using-tdd-in-25-minutes)
 - [Y2K22 - The Mistake That Embarrasses Us](https://maximilianocontieri.com/y2k22-the-mistake-that-embarrasses-us)
 - [Code Smell 113 - Data Naming](https://maximilianocontieri.com/code-smell-113-data-naming)
 - [Refactoring 003 - Extract Constant](https://maximilianocontieri.com/refactoring-003-extract-constant)
 - [I Wrote More Than 90 Articles on 2021: Here Is What I Learned](https://maximilianocontieri.com/i-wrote-more-than-90-articles-on-2021-here-is-what-i-learned)
-- [Code Smell 112 - Testing Private Methods](https://maximilianocontieri.com/code-smell-112-testing-private-methods)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
