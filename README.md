@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring 004 - Remove Unhandled Exceptions](https://maximilianocontieri.com/refactoring-004-remove-unhandled-exceptions)
 - [DeepMind&#39;s AlphaCode Won&#39;t Steal Your Job Either](https://maximilianocontieri.com/deepminds-alphacode-wont-steal-your-job-either)
 - [How to Develop a Wordle Game using TDD in 25 Minutes](https://maximilianocontieri.com/how-to-develop-a-wordle-game-using-tdd-in-25-minutes)
 - [Y2K22 - The Mistake That Embarrasses Us](https://maximilianocontieri.com/y2k22-the-mistake-that-embarrasses-us)
 - [Code Smell 113 - Data Naming](https://maximilianocontieri.com/code-smell-113-data-naming)
-- [Refactoring 003 - Extract Constant](https://maximilianocontieri.com/refactoring-003-extract-constant)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
