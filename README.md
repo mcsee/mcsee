@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 117 - Unrealistic Data](https://maximilianocontieri.com/code-smell-117-unrealistic-data)
 - [Web3 For Dummies - Part 01 - What is a Blockchain?](https://maximilianocontieri.com/web3-for-dummies-part-01-what-is-a-blockchain)
 - [Code Smell 116 - Variables Declared With &#39;var&#39;](https://maximilianocontieri.com/code-smell-116-variables-declared-with-var)
 - [Code Smell 115 - Return True](https://maximilianocontieri.com/code-smell-115-return-true)
 - [Code Smell 114 - Empty Class](https://maximilianocontieri.com/code-smell-114-empty-class)
-- [Refactoring 004 - Remove Unhandled Exceptions](https://maximilianocontieri.com/refactoring-004-remove-unhandled-exceptions)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
