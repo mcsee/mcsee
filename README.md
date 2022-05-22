@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 134 - Specialized Business Collections](https://maximilianocontieri.com/code-smell-134-specialized-business-collections)
 - [Code Smell 133 - Hardcoded IF Conditions](https://maximilianocontieri.com/code-smell-133-hardcoded-if-conditions)
 - [Code Smell 132 - Exception Try Too Broad](https://maximilianocontieri.com/code-smell-132-exception-try-too-broad)
 - [Code Smell 131 - Zero Argument Constructor](https://maximilianocontieri.com/code-smell-131-zero-argument-constructor)
 - [Code Smell 130 - AddressImpl](https://maximilianocontieri.com/code-smell-130-addressimpl)
-- [Code Smell 129 - Structural Optimizations](https://maximilianocontieri.com/code-smell-129-structural-optimizations)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
