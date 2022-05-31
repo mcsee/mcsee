@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 137 - Inheritance Tree Too Deep](https://maximilianocontieri.com/code-smell-137-inheritance-tree-too-deep)
 - [Code Smell 136 -  Classes With just One Subclass](https://maximilianocontieri.com/code-smell-136-classes-with-just-one-subclass)
 - [Code Smell 135 -  Interfaces With just One Realization](https://maximilianocontieri.com/code-smell-135-interfaces-with-just-one-realization)
 - [Code Smell 134 - Specialized Business Collections](https://maximilianocontieri.com/code-smell-134-specialized-business-collections)
 - [Code Smell 133 - Hardcoded IF Conditions](https://maximilianocontieri.com/code-smell-133-hardcoded-if-conditions)
-- [Code Smell 132 - Exception Try Too Broad](https://maximilianocontieri.com/code-smell-132-exception-try-too-broad)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
