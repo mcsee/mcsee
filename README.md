@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring 006 - Rename Result Variables](https://maximilianocontieri.com/refactoring-006-rename-result-variables)
 - [Code Smell 140 - Short Circuit Evaluation](https://maximilianocontieri.com/code-smell-140-short-circuit-evaluation)
 - [Code Smell 139 - Business Code in the User Interface](https://maximilianocontieri.com/code-smell-139-business-code-in-the-user-interface)
 - [Refactoring 005 - Replace Comment with Function Name](https://maximilianocontieri.com/refactoring-005-replace-comment-with-function-name)
 - [Code Smell 138 - Packages Dependency](https://maximilianocontieri.com/code-smell-138-packages-dependency)
-- [Code Smell 137 - Inheritance Tree Too Deep](https://maximilianocontieri.com/code-smell-137-inheritance-tree-too-deep)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
