@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-3 Training Programmers for the Present &lpar;and the Future&rpar;](https://maximilianocontieri.com/gpt-3-training-programmers-for-the-present-and-the-future)
 - [Code Smell 144 - Fungible Objects](https://maximilianocontieri.com/code-smell-144-fungible-objects)
 - [Code Smell 143 - Data Clumps](https://maximilianocontieri.com/code-smell-143-data-clumps)
 - [Code Smell 142 - Queries in Constructors](https://maximilianocontieri.com/code-smell-142-queries-in-constructors)
 - [Code Smell 141 - IEngine , AVehicle, ImplCar](https://maximilianocontieri.com/code-smell-141-iengine-avehicle-implcar)
-- [Refactoring 006 - Rename Result Variables](https://maximilianocontieri.com/refactoring-006-rename-result-variables)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
