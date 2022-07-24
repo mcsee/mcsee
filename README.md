@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 152 - Logical Comment](https://maximilianocontieri.com/code-smell-152-logical-comment)
 - [Code Smell 151 - Commented Code](https://maximilianocontieri.com/code-smell-151-commented-code)
 - [Code Smell 150 - Equal Comparison](https://maximilianocontieri.com/code-smell-150-equal-comparison)
 - [Code Smell 149 - Optional Chaining](https://maximilianocontieri.com/code-smell-149-optional-chaining)
 - [Code Smell 148 - ToDos](https://maximilianocontieri.com/code-smell-148-todos)
-- [5 Programming Techniques to Avoid SSD Brick Catastrophic Failures](https://maximilianocontieri.com/5-programming-techniques-to-avoid-ssd-brick-catastrophic-failures)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
