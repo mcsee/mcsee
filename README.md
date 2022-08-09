@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Explain in 5 Levels of Difficulty: Linux](https://maximilianocontieri.com/explain-in-5-levels-of-difficulty-linux)
 - [Code Smell 156 - Implicit Else](https://maximilianocontieri.com/code-smell-156-implicit-else)
 - [Code Smell 155 - Multiple Promises](https://maximilianocontieri.com/code-smell-155-multiple-promises)
 - [Code Smell 154 - Too Many Variables](https://maximilianocontieri.com/code-smell-154-too-many-variables)
 - [Code Smell 153 - Too Long Names](https://maximilianocontieri.com/code-smell-153-too-long-names)
-- [Code Smell 152 - Logical Comment](https://maximilianocontieri.com/code-smell-152-logical-comment)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
