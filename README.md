@@ -25,11 +25,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Software Developer Self-Improvement Sites](https://maximilianocontieri.com/top-10-software-developer-self-improvement-sites)
 - [10 Pieces of Advice to Get your First Job from a Senior Interviewer](https://maximilianocontieri.com/10-pieces-of-advice-to-get-your-first-job-from-a-senior-interviewer)
 - [CoDe SmElL 159 - mIxEd_cASe](https://maximilianocontieri.com/code-smell-159-mixedcase)
 - [Explain in 5 Levels of Difficulty: Object-Oriented Programming](https://maximilianocontieri.com/explain-in-5-levels-of-difficulty-object-oriented-programming)
 - [Code Smell 158 - Variables not Variable](https://maximilianocontieri.com/code-smell-158-variables-not-variable)
-- [Code Smell 157 - Balance at 0](https://maximilianocontieri.com/code-smell-157-balance-at-0)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
