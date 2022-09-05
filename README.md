@@ -4,6 +4,8 @@
 
 I am Lic. Maximiliano Contieri.
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcsee)](https://github.com/mcsee/github-readme-stats)
+
 * * *
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mcsee1?style=social)
