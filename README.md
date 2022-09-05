@@ -6,7 +6,7 @@ I am Lic. Maximiliano Contieri.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcsee&count_private=true&theme=onedark)](https://github.com/mcsee/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcsee&count_private=true&theme=onedark)](https://github.com/mcsee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcsee&count_private=true&theme=onedark&langs_count=10)](https://github.com/mcsee/github-readme-stats)
 
 * * *
 
