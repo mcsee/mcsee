@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Wordle with TDD in Javascript](https://maximilianocontieri.com/how-to-create-a-wordle-with-tdd-in-javascript)
 - [Code Smell 162 - Too Many Parentheses](https://maximilianocontieri.com/code-smell-162-too-many-parentheses)
 - [Step by Step Wordle Creation With Codex AI](https://maximilianocontieri.com/step-by-step-wordle-creation-with-codex-ai)
 - [I Want to Build a Learning Companion for New Developers Using AI](https://maximilianocontieri.com/i-want-to-build-a-learning-companion-for-new-developers-using-ai)
 - [Code Smell 161 - Abstract/Final/Undefined Classes](https://maximilianocontieri.com/code-smell-161-abstractfinalundefined-classes)
-- [Code Smell 160 - Invalid Id = 9999](https://maximilianocontieri.com/code-smell-160-invalid-id-9999)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
