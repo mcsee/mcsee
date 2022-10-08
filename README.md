@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How a Hacker Stole $566M USD Exploiting a Code Smell](https://maximilianocontieri.com/how-a-hacker-stole-566m-usd-exploiting-a-code-smell)
 - [Code Smell 166 - Low-Level Errors on User Interface](https://maximilianocontieri.com/code-smell-166-low-level-errors-on-user-interface)
 - [Code Smell 165 - Empty Exception Blocks](https://maximilianocontieri.com/code-smell-165-empty-exception-blocks)
 - [Code Smell 164 - Mixed Indentations](https://maximilianocontieri.com/code-smell-164-mixed-indentations)
 - [Code Smell 163 - Collection in Name](https://maximilianocontieri.com/code-smell-163-collection-in-name)
-- [How to Create a Wordle with TDD in Javascript](https://maximilianocontieri.com/how-to-create-a-wordle-with-tdd-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
