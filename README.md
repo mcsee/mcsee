@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 172 - Default Argument Values Not Last](https://maximilianocontieri.com/code-smell-172-default-argument-values-not-last)
 - [Code Smell 171 - Plural Classes](https://maximilianocontieri.com/code-smell-171-plural-classes)
 - [Code Smell 170 - Refactor with Functional Changes](https://maximilianocontieri.com/code-smell-170-refactor-with-functional-changes)
 - [How to Create a Wordle as a Centaur](https://maximilianocontieri.com/how-to-create-a-wordle-as-a-centaur)
 - [Code Smell 169 - Glued Methods](https://maximilianocontieri.com/code-smell-169-glued-methods)
-- [Code Smell 168 - Undocumented Decisions](https://maximilianocontieri.com/code-smell-168-undocumented-decisions)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
