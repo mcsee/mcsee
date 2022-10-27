@@ -29,7 +29,7 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 174 - Broken Windows](https://maximilianocontieri.com/code-smell-174-broken-windows)
+- [Code Smell 173 - Broken Windows](https://maximilianocontieri.com/code-smell-173-broken-windows)
 - [Refactoring 009 - Protect Public Attributes](https://maximilianocontieri.com/refactoring-009-protect-public-attributes)
 - [How to Improve your Code With Easy Refactorings](https://maximilianocontieri.com/how-to-improve-your-code-with-easy-refactorings)
 - [Code Smell 172 - Default Argument Values Not Last](https://maximilianocontieri.com/code-smell-172-default-argument-values-not-last)
