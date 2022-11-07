@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring 010 - Extract Method Object](https://maximilianocontieri.com/refactoring-010-extract-method-object)
 - [Code Smell 177 - Missing Small Objects](https://maximilianocontieri.com/code-smell-177-missing-small-objects)
 - [Code Smell 176 - Changes in Essence](https://maximilianocontieri.com/code-smell-176-changes-in-essence)
 - [Code Smell 175 - Changes Without Coverage](https://maximilianocontieri.com/code-smell-175-changes-without-coverage)
 - [Code Smell 174 - Class Name in Attributes](https://maximilianocontieri.com/code-smell-174-class-name-in-attributes)
-- [Code Smell 173 - Broken Windows](https://maximilianocontieri.com/code-smell-173-broken-windows)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
