@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 184 - Exception Arrow Code](https://maximilianocontieri.com/code-smell-184-exception-arrow-code)
 - [ChatGPT is Amazing. And It is FREE!](https://maximilianocontieri.com/chatgpt-is-amazing-and-it-is-free)
 - [Code Smell 183 - Obsolete Comments](https://maximilianocontieri.com/code-smell-183-obsolete-comments)
 - [Code Smell 182 - Over Generalization](https://maximilianocontieri.com/code-smell-182-over-generalization)
 - [Content Structure: The Do&#39;s and Dont&#39;s of Content Creation](https://maximilianocontieri.com/content-structure-the-dos-and-donts-of-content-creation)
-- [Code Smell 181 - Nested Classes](https://maximilianocontieri.com/code-smell-181-nested-classes)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
