@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 199 - Gratuitous Booleans](https://maximilianocontieri.com/code-smell-199-gratuitous-booleans)
 - [Code Smell 198 - Hidden Assumptions](https://maximilianocontieri.com/code-smell-198-hidden-assumptions)
 - [Explain in 5 Levels of Difficulty: The Fermi Paradox](https://maximilianocontieri.com/explain-in-5-levels-of-difficulty-the-fermi-paradox)
 - [Code Smell 197 - Gratuitous Context](https://maximilianocontieri.com/code-smell-197-gratuitous-context)
 - [Explain in 5 Levels of Difficulty: GIT](https://maximilianocontieri.com/explain-in-5-levels-of-difficulty-git)
-- [Code Smell 196 - Javascript Array Constructors](https://maximilianocontieri.com/code-smell-196-javascript-array-constructors)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
