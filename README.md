@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 205 - Code in Destructors](https://maximilianocontieri.com/code-smell-205-code-in-destructors)
 - [Code Smell 204 - Tests Depending on Dates](https://maximilianocontieri.com/code-smell-204-tests-depending-on-dates)
 - [Code Smell 203 - Irrelevant Test Information](https://maximilianocontieri.com/code-smell-203-irrelevant-test-information)
 - [Code Smell 202 - God Constant Class](https://maximilianocontieri.com/code-smell-202-god-constant-class)
 - [Code Smell 201 - Nested Ternaries](https://maximilianocontieri.com/code-smell-201-nested-ternaries)
-- [Code Smell 200 - Poltergeist](https://maximilianocontieri.com/code-smell-200-poltergeist)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
