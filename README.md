@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring 011 - Replace Comments with Tests](https://maximilianocontieri.com/refactoring-011-replace-comments-with-tests)
 - [Code Smell 208 - Null Island](https://maximilianocontieri.com/code-smell-208-null-island)
 - [Code Smell 207 - Dynamic Methods](https://maximilianocontieri.com/code-smell-207-dynamic-methods)
 - [Code Smell 206 - Long Ternaries](https://maximilianocontieri.com/code-smell-206-long-ternaries)
 - [Code Smell 205 - Code in Destructors](https://maximilianocontieri.com/code-smell-205-code-in-destructors)
-- [Code Smell 204 - Tests Depending on Dates](https://maximilianocontieri.com/code-smell-204-tests-depending-on-dates)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
