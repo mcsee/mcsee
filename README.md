@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 217 - Empty Implementation](https://maximilianocontieri.com/code-smell-217-empty-implementation)
 - [Code Smell 216 - Fat Interface](https://maximilianocontieri.com/code-smell-216-fat-interface)
 - [Code Smell 215 - Deserializing Object Vulnerability](https://maximilianocontieri.com/code-smell-215-deserializing-object-vulnerability)
 - [Code Smell 214 - Duplicate Parameter Names](https://maximilianocontieri.com/code-smell-214-duplicate-parameter-names)
 - [Code Smell 213 - Hoisting](https://maximilianocontieri.com/code-smell-213-hoisting)
-- [Code Smell 212 - Elvis Operator](https://maximilianocontieri.com/code-smell-212-elvis-operator)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
