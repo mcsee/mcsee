@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 230 - Schrödinger Code](https://maximilianocontieri.com/code-smell-230-schrodinger-code)
 - [Code Smell 229 - Red Tape](https://maximilianocontieri.com/code-smell-229-red-tape)
 - [Code Smell 228 - Multiple Classes per File](https://maximilianocontieri.com/code-smell-228-multiple-classes-per-file)
 - [Code Smell 227 -  Cowboy Coding](https://maximilianocontieri.com/code-smell-227-cowboy-coding)
 - [Clean Code Cookbook is Out](https://maximilianocontieri.com/clean-code-cookbook-is-out)
-- [Code Smell 226 - Mixed Priorities](https://maximilianocontieri.com/code-smell-226-mixed-priorities)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
