@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Bridging the Industry-Academia Divide](https://maximilianocontieri.com/bridging-the-industry-academia-divide)
 - [Code Smell 234 - Long Circuit](https://maximilianocontieri.com/code-smell-234-long-circuit)
 - [Code Smell 233 - Collections Count](https://maximilianocontieri.com/code-smell-233-collections-count)
 - [Code Smell 232 - Reusable Code](https://maximilianocontieri.com/code-smell-232-reusable-code)
 - [Refactoring 012 - Reify Associative Arrays](https://maximilianocontieri.com/refactoring-012-reify-associative-arrays)
-- [Code Smell 231 - Redundant Data](https://maximilianocontieri.com/code-smell-231-redundant-data)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
