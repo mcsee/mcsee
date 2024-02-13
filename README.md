@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Warning: The Universe&#39;s Event Simulator Is a Fierce Adversary for Coders!](https://maximilianocontieri.com/warning-the-universes-event-simulator-is-a-fierce-adversary-for-coders)
 - [Code Smell 240 - Dead Store](https://maximilianocontieri.com/code-smell-240-dead-store)
 - [Code Smell 239 - Big Pull Request](https://maximilianocontieri.com/code-smell-239-big-pull-request)
 - [Code Smell 238 - Entangled Code](https://maximilianocontieri.com/code-smell-238-entangled-code)
 - [Code Smell 237 - Attribute Definitions](https://maximilianocontieri.com/code-smell-237-attribute-definitions)
-- [Code Smell 236 - Unwrapped Lines](https://maximilianocontieri.com/code-smell-236-unwrapped-lines)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
