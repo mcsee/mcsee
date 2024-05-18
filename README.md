@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 252 - NullCustomer](https://maximilianocontieri.com/code-smell-252-nullcustomer)
 - [Code Smell 251 - Collections Empty](https://maximilianocontieri.com/code-smell-251-collections-empty)
 - [Code Smell 250 - Premature Memoization](https://maximilianocontieri.com/code-smell-250-premature-memoization)
 - [Code Smell 249 - Constants as Numbers](https://maximilianocontieri.com/code-smell-249-constants-as-numbers)
 - [Code Smell 248 - Unreliable Copy](https://maximilianocontieri.com/code-smell-248-unreliable-copy)
-- [Code Smell 247 - Javascript Replace](https://maximilianocontieri.com/code-smell-247-javascript-replace)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
