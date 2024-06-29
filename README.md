@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 256 - Mutable Getters](https://maximilianocontieri.com/code-smell-256-mutable-getters)
 - [Explain in 5 Levels of Difficulty: Bitcoin](https://maximilianocontieri.com/explain-in-5-levels-of-difficulty-bitcoin)
 - [Code Smell 255 - Parallel Hierarchies](https://maximilianocontieri.com/code-smell-255-parallel-hierarchies)
 - [Refactoring 013 - Remove Repeated Code](https://maximilianocontieri.com/refactoring-013-remove-repeated-code)
 - [Clean Code With AI](https://maximilianocontieri.com/clean-code-with-ai)
-- [Code Smell 254 - Mystery Guest](https://maximilianocontieri.com/code-smell-254-mystery-guest)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
