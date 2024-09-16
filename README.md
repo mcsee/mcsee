@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring 016 - Build With The Essence](https://maximilianocontieri.com/refactoring-016-build-with-the-essence)
 - [Code Smell 269 - Low-Level Addition](https://maximilianocontieri.com/code-smell-269-low-level-addition)
 - [Code Smell 268 - Ternary Metaprogramming](https://maximilianocontieri.com/code-smell-268-ternary-metaprogramming)
 - [Code Smell 267 - Objects Aliasing](https://maximilianocontieri.com/code-smell-267-objects-aliasing)
 - [Code Smell 266 - Collection Aliasing](https://maximilianocontieri.com/code-smell-266-collection-aliasing)
-- [Code Smell 265 - Linguistic Confusion](https://maximilianocontieri.com/code-smell-265-linguistic-confusion)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
