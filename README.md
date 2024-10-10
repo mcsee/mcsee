@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 274 - Cascaded Returns](https://maximilianocontieri.com/code-smell-274-cascaded-returns)
 - [Code Smell 273 - Overengineering](https://maximilianocontieri.com/code-smell-273-overengineering)
 - [Code Smell 272 - API Chain](https://maximilianocontieri.com/code-smell-272-api-chain)
 - [Code Smell 271 - The Hollywood Principle](https://maximilianocontieri.com/code-smell-271-the-hollywood-principle)
 - [Code Smell 270 - Boolean APIs](https://maximilianocontieri.com/code-smell-270-boolean-apis)
-- [Refactoring 016 - Build With The Essence](https://maximilianocontieri.com/refactoring-016-build-with-the-essence)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
