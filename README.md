@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Explain in 5 Levels of Difficulty Ethereum](https://maximilianocontieri.com/explain-in-5-levels-of-difficulty-ethereum)
 - [Code Smell 275 - Missing Test Wrong Path](https://maximilianocontieri.com/code-smell-275-missing-test-wrong-path)
 - [Code Smell 274 - Cascaded Returns](https://maximilianocontieri.com/code-smell-274-cascaded-returns)
 - [Code Smell 273 - Overengineering](https://maximilianocontieri.com/code-smell-273-overengineering)
 - [Code Smell 272 - API Chain](https://maximilianocontieri.com/code-smell-272-api-chain)
-- [Code Smell 271 - The Hollywood Principle](https://maximilianocontieri.com/code-smell-271-the-hollywood-principle)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
