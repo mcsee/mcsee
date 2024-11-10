@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 278 - DirName and File](https://maximilianocontieri.com/code-smell-278-dirname-and-file)
 - [Refactoring 018 - Replace Singleton](https://maximilianocontieri.com/refactoring-018-replace-singleton)
 - [Code Smell 277 - UPPERCASE Acronyms](https://maximilianocontieri.com/code-smell-277-uppercase-acronyms)
 - [Code Smell 276 - Untested Regular Expressions](https://maximilianocontieri.com/code-smell-276-untested-regular-expressions)
 - [Refactoring 017 - Convert Attributes to Sets](https://maximilianocontieri.com/refactoring-017-convert-attributes-to-sets)
-- [Explain in 5 Levels of Difficulty Ethereum](https://maximilianocontieri.com/explain-in-5-levels-of-difficulty-ethereum)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
