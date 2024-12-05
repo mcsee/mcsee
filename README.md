@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring 019 - Reify Email Addresses](https://maximilianocontieri.com/refactoring-019-reify-email-addresses)
 - [Code Smell 282 - Bad Defaults](https://maximilianocontieri.com/code-smell-282-bad-defaults)
 - [Code Smell 281 - Hashes](https://maximilianocontieri.com/code-smell-281-hashes)
 - [Code Smell 280 - Spaghetti Code](https://maximilianocontieri.com/code-smell-280-spaghetti-code)
 - [Code Smell 279 - Loop Premature Optimization](https://maximilianocontieri.com/code-smell-279-loop-premature-optimization)
+- [Code Smell 278 - DirName and File](https://maximilianocontieri.com/code-smell-278-dirname-and-file)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
