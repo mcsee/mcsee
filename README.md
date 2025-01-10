@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 285 - Non-Imperative Functions Names](https://maximilianocontieri.com/code-smell-285-non-imperative-functions-names)
 - [Refactoring 021 - Remove Dead Code](https://maximilianocontieri.com/refactoring-021-remove-dead-code)
 - [Code Smell 284 - Encrypted Functions](https://maximilianocontieri.com/code-smell-284-encrypted-functions)
 - [Refactoring 020 - Transform Static Functions](https://maximilianocontieri.com/refactoring-020-transform-static-functions)
 - [Code Smell 283 - Unresolved Meta Tags](https://maximilianocontieri.com/code-smell-283-unresolved-meta-tags)
-- [Refactoring 019 - Reify Email Addresses](https://maximilianocontieri.com/refactoring-019-reify-email-addresses)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
