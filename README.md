@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 290 - Refused Bequest](https://maximilianocontieri.com/code-smell-290-refused-bequest)
 - [Code Smell 289 - Shy Visitor](https://maximilianocontieri.com/code-smell-289-shy-visitor)
 - [Code Smell 288 - Unthrown Exceptions](https://maximilianocontieri.com/code-smell-288-unthrown-exceptions)
 - [Code Smell 287 - Unused Local Assignment](https://maximilianocontieri.com/code-smell-287-unused-local-assignment)
 - [Refactoring 022 - Extract Common Ancestor](https://maximilianocontieri.com/refactoring-022-extract-common-ancestor)
-- [Explain in 5 Levels of Difficulty: Quantum Computing](https://maximilianocontieri.com/explain-in-5-levels-of-difficulty-quantum-computing)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
