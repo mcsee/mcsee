@@ -4,15 +4,30 @@ on:
    # This will make it run every hour
    - cron: '0 0 * * *' # Run once a day instead of every hour
    
-  # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
- workflow_dispatch: 
 jobs:
- update-readme-with-blog:
-   name: Update this repo's README with latest blog posts
-   runs-on: ubuntu-latest
-   steps:
-     - uses: actions/checkout@v2
-     - uses: gautamkrishnar/blog-post-workflow@master
-       with:
-         # Replace this URL with your rss feed URL/s
-         feed_list: "https://maximilianocontieri.com/rss.xml"
+  fetch-latest-post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch latest blog post
+        run: |
+          retries=5
+          delay=15
+          for i in $(seq 1 $retries); do
+            response=$(curl -s -o /dev/null -w "%{http_code}" https://maximilianocontieri.com/rss.xml)
+            if [ $response -eq 200 ]; then
+              echo "Fetched successfully"
+              exit 0
+            elif [ $response -eq 429 ]; then
+              echo "Rate limited, retrying in $delay seconds..."
+              sleep $delay
+              delay=$((delay * 2))
+            else
+              echo "Failed with status code $response"
+              exit 1
+            fi
+          done
+          echo "Exceeded maximum retries"
+          exit 1
