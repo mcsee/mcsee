@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
  schedule: # Run workflow automatically
    # This will make it run every hour
-   - cron: '* * * * *' # Run once a day instead of every hour
+   - cron: '0 * * * *' # Run once a day instead of every hour
    
 jobs:
   fetch-latest-post:
