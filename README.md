@@ -29,11 +29,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 292 - Missing Return](https://dev.to/mcsee/code-smell-292-missing-return-4pmg)
 - [Code Smell 291 - Mutable Keys](https://dev.to/mcsee/code-smell-291-mutable-keys-5flf)
 - [Refactoring 023 - Replace Inheritance with Delegation](https://dev.to/mcsee/refactoring-023-replace-inheritance-with-delegation-1c00)
 - [Code Smell 290 - Refused Bequest](https://dev.to/mcsee/code-smell-290-refused-bequest-3l3k)
 - [Code Smell 289 - Shy Visitor](https://dev.to/mcsee/code-smell-289-shy-visitor-5eh0)
-- [Code Smell 288 - Unthrown Exceptions](https://dev.to/mcsee/code-smell-288-unthrown-exceptions-2c92)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
