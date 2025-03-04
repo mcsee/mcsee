@@ -12,6 +12,10 @@ I am Lic. Maximiliano Contieri.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mcsee1?style=social)
 
+[Bluesky](https://bsky.app/profile/maximilianocontieri.com)
+
+[Website](http://maximilianocontieri.com)
+
 I have a master in Computer Science at [Universidad de Buenos Aires](http://www.uba.ar/).
 
 I've been working on Software for about 25 years and been teaching at University at the same time.
