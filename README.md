@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 295 - String Concatenation](https://dev.to/mcsee/code-smell-295-string-concatenation-1hpi)
 - [Code Smell 294 - Implicit Return](https://dev.to/mcsee/code-smell-294-implicit-return-48od)
 - [The Great Programmer Purge: How AI Is Taking Over the Tech Workforce](https://dev.to/mcsee/the-great-programmer-purge-how-ai-is-taking-over-the-tech-workforce-n0)
 - [Refactoring 024 - Replace Global Variables with Dependency Injection](https://dev.to/mcsee/refactoring-024-replace-global-variables-with-dependency-injection-2h51)
 - [Code Smell 293 - isTesting](https://dev.to/mcsee/code-smell-293-istesting-5egl)
-- [Code Smell 292 - Missing Return](https://dev.to/mcsee/code-smell-292-missing-return-4pmg)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
