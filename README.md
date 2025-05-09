@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 299 - Overloaded Test Setup](https://dev.to/mcsee/code-smell-299-overloaded-test-setup-216i)
 - [Code Smell 298 - Microsoft Windows Time Waste](https://dev.to/mcsee/code-smell-298-microsoft-windows-time-waste-30k1)
 - [Code Smell 297 - Syntactic Noise](https://dev.to/mcsee/code-smell-297-syntactic-noise-7i9)
 - [From Helpful to Harmful: How AI Recommendations Destroyed My OS](https://dev.to/mcsee/from-helpful-to-harmful-how-ai-recommendations-destroyed-my-os-2b70)
 - [Refactoring 027 - Remove Getters](https://dev.to/mcsee/refactoring-027-remove-getters-236b)
-- [Code Smell 296 - Unhappy to the Right](https://dev.to/mcsee/code-smell-296-unhappy-to-the-right-19n1)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
