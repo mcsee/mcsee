@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 302 - Misleading Status Codes](https://dev.to/mcsee/code-smell-302-misleading-status-codes-10dd)
 - [Refactoring 029 - Replace NULL With Collection](https://dev.to/mcsee/refactoring-029-replace-null-with-collection-j3j)
 - [Code Smell 301 - Database as Parameter](https://dev.to/mcsee/code-smell-301-database-as-parameter-27)
 - [Refactoring 028 - Replace Consecutive IDs with Dark Keys](https://dev.to/mcsee/refactoring-028-replace-consecutive-ids-with-dark-keys-39om)
 - [Code Smell 300 - Package Hallucination](https://dev.to/mcsee/code-smell-300-package-hallucination-1kai)
-- [Code Smell 299 - Overloaded Test Setup](https://dev.to/mcsee/code-smell-299-overloaded-test-setup-216i)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
