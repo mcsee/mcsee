@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring 030 - Inline Attributes](https://dev.to/mcsee/refactoring-030-inline-attributes-45mo)
 - [Code Smell 306 - AI External Comments](https://dev.to/mcsee/code-smell-306-ai-external-comments-4556)
 - [Code Smell 305 - Null Infinity](https://dev.to/mcsee/code-smell-305-null-infinity-196i)
 - [Explain in 5 Levels of Difficulty](https://dev.to/mcsee/explain-in-5-levels-of-difficulty-4cj9)
 - [Explain in 5 Levels of Difficulty: Vibe Coding](https://dev.to/mcsee/explain-in-5-levels-of-difficulty-vibe-coding-4f77)
-- [Code Smell 304 - Null Pointer Exception](https://dev.to/mcsee/code-smell-304-null-pointer-exception-1meo)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
