@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring 032 - Apply Consistent Style Rules](https://dev.to/mcsee/refactoring-032-apply-consistent-style-rules-4fhf)
 - [Code Smell 308 - Not Polymorphic Return](https://dev.to/mcsee/code-smell-308-not-polymorphic-return-5f9h)
 - [Refactoring 031 - Removing OOPs](https://dev.to/mcsee/refactoring-031-removing-oops-5g9f)
 - [Code Smell 307 - Naive Time Assumptions](https://dev.to/mcsee/code-smell-307-naive-time-assumptions-42g8)
 - [Refactoring 030 - Inline Attributes](https://dev.to/mcsee/refactoring-030-inline-attributes-45mo)
-- [Code Smell 306 - AI External Comments](https://dev.to/mcsee/code-smell-306-ai-external-comments-4556)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
