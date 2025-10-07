@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring 034 - Reify Parameters](https://dev.to/mcsee/refactoring-034-reify-parameters-49ml)
 - [Code Smell 310 - Vague Date Naming](https://dev.to/mcsee/code-smell-310-vague-date-naming-f4)
 - [Code Smell 309 - Query Parameter API Versioning](https://dev.to/mcsee/code-smell-309-query-parameter-api-versioning-2opb)
 - [Refactoring 033 - Strip Annotations](https://dev.to/mcsee/refactoring-033-strip-annotations-46mi)
 - [Refactoring 032 - Apply Consistent Style Rules](https://dev.to/mcsee/refactoring-032-apply-consistent-style-rules-4fhf)
-- [Code Smell 308 - Not Polymorphic Return](https://dev.to/mcsee/code-smell-308-not-polymorphic-return-5f9h)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
