@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 312 - Too Many Asserts](https://dev.to/mcsee/code-smell-312-too-many-asserts-1lej)
 - [Code Smell 311 - Plain Text Passwords](https://dev.to/mcsee/code-smell-311-plain-text-passwords-33mg)
 - [Refactoring 035 - Separate Exception Types](https://dev.to/mcsee/refactoring-035-separate-exception-types-179j)
 - [Refactoring 034 - Reify Parameters](https://dev.to/mcsee/refactoring-034-reify-parameters-49ml)
 - [Code Smell 310 - Vague Date Naming](https://dev.to/mcsee/code-smell-310-vague-date-naming-f4)
-- [Code Smell 309 - Query Parameter API Versioning](https://dev.to/mcsee/code-smell-309-query-parameter-api-versioning-2opb)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
