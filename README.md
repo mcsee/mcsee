@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 314 - Model Collapse](https://dev.to/mcsee/code-smell-314-model-collapse-5ckc)
 - [Code Smell 314 - Model Collapse](https://dev.to/mcsee/code-smell-314-model-collapse-18nl)
 - [Code Smell 313 - Workslop Code](https://dev.to/mcsee/code-smell-313-workslop-code-n09)
 - [Code Smell 312 - Too Many Asserts](https://dev.to/mcsee/code-smell-312-too-many-asserts-1lej)
 - [Code Smell 311 - Plain Text Passwords](https://dev.to/mcsee/code-smell-311-plain-text-passwords-33mg)
-- [Refactoring 035 - Separate Exception Types](https://dev.to/mcsee/refactoring-035-separate-exception-types-179j)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
