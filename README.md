@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 317 - Email Handling Vulnerabilities](https://dev.to/mcsee/code-smell-317-email-handling-vulnerabilities-241f)
 - [Code Smell 316 - Nitpicking](https://dev.to/mcsee/code-smell-316-nitpicking-pee)
 - [Refactoring 037 - Testing Private Methods](https://dev.to/mcsee/refactoring-037-testing-private-methods-5d68)
 - [Code Smell 315 - Cloudflare Feature Explosion](https://dev.to/mcsee/code-smell-315-cloudflare-feature-explosion-28p9)
 - [Refactoring 036 - Replace String Concatenations with Text Blocks](https://dev.to/mcsee/refactoring-036-replace-string-concatenations-with-text-blocks-3nop)
-- [Code Smell 314 - Model Collapse](https://dev.to/mcsee/code-smell-314-model-collapse-5ckc)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
