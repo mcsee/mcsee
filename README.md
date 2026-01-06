@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Coding Tip 001 - Commit Before Prompt](https://dev.to/mcsee/ai-coding-tip-001-commit-before-prompt-5bd9)
 - [Code Smell 318 - Refactoring Dirty Code](https://dev.to/mcsee/code-smell-318-refactoring-dirty-code-437)
 - [Code Smell 317 - Email Handling Vulnerabilities](https://dev.to/mcsee/code-smell-317-email-handling-vulnerabilities-241f)
 - [Code Smell 316 - Nitpicking](https://dev.to/mcsee/code-smell-316-nitpicking-pee)
 - [Refactoring 037 - Testing Private Methods](https://dev.to/mcsee/refactoring-037-testing-private-methods-5d68)
-- [Code Smell 315 - Cloudflare Feature Explosion](https://dev.to/mcsee/code-smell-315-cloudflare-feature-explosion-28p9)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
