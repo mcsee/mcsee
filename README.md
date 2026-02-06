@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring 038 - Reify Collection](https://dev.to/mcsee/refactoring-038-reify-collection-2g2c)
 - [AI Coding Tip 005 - Keep Context Fresh](https://dev.to/mcsee/ai-coding-tip-005-keep-context-fresh-220e)
 - [AI Coding Tip 004 - Use Modular Skills](https://dev.to/mcsee/ai-coding-tip-004-use-modular-skills-g97)
 - [AI Coding Tips](https://dev.to/mcsee/ai-coding-tips-118n)
 - [AI Coding Tip 003 - Force Read-Only Planning](https://dev.to/mcsee/ai-coding-tip-003-force-read-only-planning-1d1m)
-- [AI Coding Tip 002 - Prompt in English](https://dev.to/mcsee/ai-coding-tip-002-prompt-in-english-2la6)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
