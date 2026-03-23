@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Coding Tip 012 - Understand All Your Code](https://dev.to/mcsee/ai-coding-tip-012-understand-all-your-code-450h)
 - [AI Coding Tip 011 - Initialize Agents.md](https://dev.to/mcsee/ai-coding-tip-011-initialize-agentsmd-nh7)
 - [AI Coding Tip 010 - Access All Your Code](https://dev.to/mcsee/ai-coding-tip-010-access-all-your-code-3ocp)
 - [AI Coding Tip 009 - Compact Your Context](https://dev.to/mcsee/ai-coding-tip-009-compact-your-context-3io9)
 - [AI Coding Tip 008 - Use Spec-Driven Development with AI](https://dev.to/mcsee/ai-coding-tip-008-use-spec-driven-development-with-ai-1k0f)
-- [AI Coding Tip 007 - Avoid Malicious Skills](https://dev.to/mcsee/ai-coding-tip-007-avoid-malicious-skills-1jh)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
