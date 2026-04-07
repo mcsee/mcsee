@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Coding Tip 014 - Use Nested AGENTS.md Files](https://dev.to/mcsee/ai-coding-tip-014-use-nested-agentsmd-files-3iec)
 - [AI Coding Tip 013 - Use Progressive Disclosure](https://dev.to/mcsee/ai-coding-tip-013-use-progressive-disclosure-102a)
 - [AI Coding Tip 012 - Understand All Your Code](https://dev.to/mcsee/ai-coding-tip-012-understand-all-your-code-450h)
 - [AI Coding Tip 011 - Initialize Agents.md](https://dev.to/mcsee/ai-coding-tip-011-initialize-agentsmd-nh7)
 - [AI Coding Tip 010 - Access All Your Code](https://dev.to/mcsee/ai-coding-tip-010-access-all-your-code-3ocp)
-- [AI Coding Tip 009 - Compact Your Context](https://dev.to/mcsee/ai-coding-tip-009-compact-your-context-3io9)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
