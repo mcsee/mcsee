@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Coding Tip 016 - Feed Your PR Lessons into the AI Brain](https://dev.to/mcsee/ai-coding-tip-016-feed-your-pr-lessons-into-the-ai-brain-3al9)
 - [AI Coding Tip 015 - Force the AI to Obey You](https://dev.to/mcsee/ai-coding-tip-015-force-the-ai-to-obey-you-49mc)
 - [Code Smell 319 - Hardcoded Stateless Properties](https://dev.to/mcsee/code-smell-319-hardcoded-stateless-properties-3b7k)
 - [AI Coding Tip 014 - Use Nested AGENTS.md Files](https://dev.to/mcsee/ai-coding-tip-014-use-nested-agentsmd-files-3iec)
 - [AI Coding Tip 013 - Use Progressive Disclosure](https://dev.to/mcsee/ai-coding-tip-013-use-progressive-disclosure-102a)
-- [AI Coding Tip 012 - Understand All Your Code](https://dev.to/mcsee/ai-coding-tip-012-understand-all-your-code-450h)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
