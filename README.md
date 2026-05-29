@@ -35,8 +35,8 @@ I like Agile methodologies and object-oriented software design.
 <!-- BLOG-POST-LIST:START -->
 - [AI Coding Tip 021 - Avoid Comprehension Debt](https://dev.to/mcsee/ai-coding-tip-021-avoid-comprehension-debt-edm)
 - [AI Coding Tip 020 - Create a Second Brain](https://dev.to/mcsee/ai-coding-tip-020-create-a-second-brain-lgp)
-- [AI Coding Tip 019 - Tell the AI Why, Not Just What](https://dev.to/mcsee/ai-coding-tip-019-tell-the-ai-why-not-just-what-43en)
 - [AI Coding Tip 018 - Use Voice-Driven-Development](https://dev.to/mcsee/ai-coding-tip-018-use-voice-driven-development-47po)
+- [AI Coding Tip 019 - Tell the AI Why, Not Just What](https://dev.to/mcsee/ai-coding-tip-019-tell-the-ai-why-not-just-what-43en)
 - [AI Coding Tip 017 - Ask for the Analyst, Not the Analysis](https://dev.to/mcsee/ai-coding-tip-017-ask-for-the-analyst-not-the-analysis-df4)
 <!-- BLOG-POST-LIST:END -->
 
