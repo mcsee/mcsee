@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Coding Tip 028 - Build a Company Brain](https://dev.to/mcsee/ai-coding-tip-028-build-a-company-brain-4aln)
 - [AI Coding Tip 027 - Force Code Standards](https://dev.to/mcsee/ai-coding-tip-027-force-code-standards-58nf)
 - [AI Coding Tip 026 - Assign a Persona to Every Skill Definition](https://dev.to/mcsee/ai-coding-tip-026-assign-a-persona-to-every-skill-definition-42bb)
 - [The Dirty Secret Behind Loop Engineering](https://dev.to/mcsee/the-dirty-secret-behind-loop-engineering-1748)
 - [Code Smell 320 - Vanity Coverage](https://dev.to/mcsee/code-smell-320-vanity-coverage-2g03)
-- [AI Coding Tip 025 - Pair Every Skill With a Pitfalls File](https://dev.to/mcsee/ai-coding-tip-025-pair-every-skill-with-a-pitfalls-file-5927)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
