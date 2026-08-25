@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Coding Tip 033 - Protect Yourself Against AI Cheating](https://dev.to/mcsee/ai-coding-tip-033-protect-yourself-against-ai-cheating-1pn1)
 - [Code Smell 321 - Getter Piggybacking](https://dev.to/mcsee/code-smell-321-getter-piggybacking-2b4i)
 - [AI Coding Tip 032 - Build a Dark Factory Pipeline](https://dev.to/mcsee/ai-coding-tip-032-build-a-dark-factory-pipeline-9b5)
 - [AI Coding Tip 031 - Stop Over-Prompting Reasoning Models](https://dev.to/mcsee/ai-coding-tip-031-stop-over-prompting-reasoning-models-3m2k)
 - [AI Coding Tip 030 - Script Your Skills, Not Your Prompts](https://dev.to/mcsee/ai-coding-tip-030-script-your-skills-not-your-prompts-2om3)
-- [AI Coding Tip 029 - Stop Using One Model for Everything](https://dev.to/mcsee/ai-coding-tip-029-stop-using-one-model-for-everything-e83)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
