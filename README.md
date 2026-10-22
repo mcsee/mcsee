@@ -33,11 +33,11 @@ I like Agile methodologies and object-oriented software design.
 # 📩 Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Smell 322 - Request Data in Long-Lived Variables &lpar;PHP Vulnerability&rpar;](https://dev.to/mcsee/code-smell-322-request-data-in-long-lived-variables-php-vulnerability-247f)
 - [AI Coding Tip 041 - Turn Every Review Finding Into a Rule](https://dev.to/mcsee/ai-coding-tip-041-turn-every-review-finding-into-a-rule-5076)
 - [AI Coding Tip 040 - Make the AI Audit Your Own Contradictions](https://dev.to/mcsee/ai-coding-tip-040-make-the-ai-audit-your-own-contradictions-4km)
 - [AI Coding Tip 039 - Give the AI a Zeroth Law](https://dev.to/mcsee/ai-coding-tip-039-give-the-ai-a-zeroth-law-44g)
 - [AI Coding Tip 038 - Make the AI Ask Before It Builds](https://dev.to/mcsee/ai-coding-tip-038-make-the-ai-ask-before-it-builds-1j7i)
-- [AI Coding Tip 037 - Stop Patching Blind](https://dev.to/mcsee/ai-coding-tip-037-stop-patching-blind-227f)
 <!-- BLOG-POST-LIST:END -->
 
 # Do's:
